@@ -10,9 +10,9 @@ Based on the project assignment requirements, the circuit is designed using the 
 
 | Parameter | Value | Description |
 | :--- | :--- | :--- |
-| **Measurable Weight Range** | 1 ... 70 kg | Full sensor range ($W_{min} \dots W_{max}$) |
-| **Allowed Weight Interval** | 2 ... 50 kg | Safe operating limits ($W_L \dots W_H$) |
-| **Sensor Resistance Range** | 3 - 18 kΩ | Linear resistance variation ($R_{min} \dots R_{max}$) |
+| **Measurable Weight Range** | 7 ... 250 kg | Full sensor range ($W_{min} \dots W_{max}$) |
+| **Allowed Weight Interval** | 40 ... 200 kg | Safe operating limits ($W_L \dots W_H$) |
+| **Sensor Resistance Range** | 1 - 21 kΩ | Linear resistance variation ($R_{min} \dots R_{max}$) |
 | **Supply Voltage ($V_{cc}$)** | 10 V | System power supply rail |
 | **Underload LED** | Red | Active when weight < 2 kg |
 | **Normal Condition LED** | Orange | Active when weight is between 2 kg and 50 kg |
